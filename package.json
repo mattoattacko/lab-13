@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "![CF](http://i.imgur.com/7v5ASc8.png) LAB - TOPIC\r =================================================",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -10,7 +10,7 @@
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "Matthew McQuain",
   "license": "ISC",
   "dependencies": {
     "babel-env": "^2.4.1",
@@ -32,5 +32,13 @@
     "require-dir": "^1.1.0",
     "require-directory": "^2.1.1",
     "supertest": "^3.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattoattacko/lab-13.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mattoattacko/lab-13/issues"
+  },
+  "homepage": "https://github.com/mattoattacko/lab-13#readme"
 }
