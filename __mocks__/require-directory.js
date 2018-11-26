@@ -20,4 +20,3 @@ export default (module, dir, options) => {
     'foo': mockModel,
   };
 };
-
