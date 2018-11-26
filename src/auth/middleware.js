@@ -5,12 +5,12 @@ import User from './model.js';
 export default (req, res, next) => {
 
   try {
-
-    let auth = {};
     let authHeader = req.headers.authorization;
 
     // BASIC Auth
     if(authHeader.match(/basic/i)) {
+      //comeback later
+      
 
       // Create a {user:password} object to send into the model to authenticate the user
 
